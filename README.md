@@ -12,5 +12,10 @@ Example, 100+1000 * 0.5 = 450, 450+50 * 0.5 = 250, ...
 
 Or, a maximum number of lines criterion is also set. Examples: War and Peace, Tolstoy, 365 chapters, 587287 words, “Baby Shoes” by Hemingway, six-word story.
 
+WIKI: <br>
+https://github.com/Frederic-jyrg/jaarjaar/wiki
+
 Reference: https://en.wikipedia.org/wiki/Consequences_(game)
+
+
 
